@@ -1,0 +1,5 @@
+# ignore index.css
+index.css
+
+# ignore test folder
+test/
